@@ -1,0 +1,28 @@
+2024-09-09 17:54:54,576 - INFO - Användaren angav: 2
+2024-09-09 17:54:54,576 - INFO - Antal ord i strängen: 1
+2024-09-09 17:55:26,986 - INFO - Försök att logga in användare: admin
+2024-09-09 17:55:26,986 - INFO - Användare admin inloggad.
+2024-09-09 17:55:26,986 - INFO - Försök att logga in användare: admin
+2024-09-09 17:55:26,986 - WARNING - Fel lösenord för användare admin.
+2024-09-09 17:55:26,986 - INFO - Försök att logga in användare: unknown_user
+2024-09-09 17:55:26,986 - ERROR - Användare unknown_user hittades inte.
+2024-09-09 17:55:41,788 - INFO - Försök att logga in användare: admin
+2024-09-09 17:55:41,790 - INFO - Användare admin inloggad.
+2024-09-09 17:55:41,790 - INFO - Försök att logga in användare: admin
+2024-09-09 17:55:41,790 - WARNING - Fel lösenord för användare admin.
+2024-09-09 17:55:41,790 - INFO - Försök att logga in användare: unknown_user
+2024-09-09 17:55:41,790 - ERROR - Användare unknown_user hittades inte.
+2024-09-09 17:56:07,761 - INFO - Försök att logga in användare: admin
+2024-09-09 17:56:07,761 - INFO - Användare admin inloggad.
+2024-09-09 17:56:07,762 - INFO - Försök att logga in användare: admin
+2024-09-09 17:56:07,762 - WARNING - Fel lösenord för användare admin.
+2024-09-09 17:56:07,762 - INFO - Försök att logga in användare: unknown_user
+2024-09-09 17:56:07,762 - ERROR - Användare unknown_user hittades inte.
+2024-09-09 17:56:43,313 - INFO - Användaren angav: 232321bhsabdska
+2024-09-09 17:56:43,313 - INFO - Antal ord i strängen: 1
+2024-09-09 17:56:49,977 - INFO - Användaren angav: 321321535125412
+2024-09-09 17:56:49,978 - INFO - Antal ord i strängen: 1
+2024-09-09 17:56:53,741 - INFO - Användaren angav: 321321
+2024-09-09 17:56:53,741 - INFO - Antal ord i strängen: 1
+2024-09-09 17:57:13,720 - INFO - Användaren angav: Hello world
+2024-09-09 17:57:13,720 - INFO - Antal ord i strängen: 2
